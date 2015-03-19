@@ -1,2 +1,2 @@
-div {float:right;}
+div {float:left;}
 h3 {color: white;}
